@@ -32,17 +32,17 @@ Datasættet består af:
 ---
 
 ## 📂 Projektstruktur
-── data//
-  ├── Products.csv
-  ├── Orders.csv
-── notebooks//
-  ├── EDA.ipynb
-  ├── Visualizations.ipynb
-── powerbi//
-  ├── Dashboard.pbix
-── sql//
-  ├── queries.sql
-── README.md
+├── data/
+│   ├── Products.csv
+│   ├── Orders.csv
+├── notebooks/
+│   ├── EDA.ipynb
+│   ├── Visualizations.ipynb
+├── powerbi/
+│   ├── Dashboard.pbix
+├── sql/
+│   ├── queries.sql
+├── README.md
 
 ## ✅ Analyseplan
 1. **Data Cleaning**: Tjek for manglende værdier, datatyper og konsistens.
