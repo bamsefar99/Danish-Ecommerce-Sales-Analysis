@@ -32,15 +32,15 @@ Datasættet består af:
 ---
 
 ## 📂 Projektstruktur
-── data/
+── data//
   ├── Products.csv
   ├── Orders.csv
-── notebooks/
+── notebooks//
   ├── EDA.ipynb
   ├── Visualizations.ipynb
-── powerbi/
+── powerbi//
   ├── Dashboard.pbix
-── sql/
+── sql//
   ├── queries.sql
 ── README.md
 
