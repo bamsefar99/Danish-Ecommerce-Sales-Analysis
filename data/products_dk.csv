@@ -1,0 +1,21 @@
+product_id,product_name,product_category,manufacturing_city,size,color,SKU,Amount,unit_price,active
+P1001,Trådløs Højttaler,Tøj,Aarhus,One Size,Blå,DK-5491-XQE,270,1192.73,True
+P1002,Smart TV,Bolig & Køkken,Kolding,XS,Grå,DK-9806-qdE,452,254.74,True
+P1003,Bærbar Computer,Elektronik,Odense,XL,Grå,DK-3426-osx,47,2849.1,True
+P1004,Kaffemaskine,Bolig & Køkken,Kolding,L,Hvid,DK-7478-CoF,479,2986.4,True
+P1005,Vinterjakke,Bolig & Køkken,Aarhus,S,Grøn,DK-9517-Dkt,452,1766.23,True
+P1006,Løbesko,Elektronik,Aalborg,XS,Sort,DK-1004-NFn,409,572.91,True
+P1007,Kontorstol,Bolig & Køkken,Kolding,M,Sort,DK-9777-gFq,490,2726.52,True
+P1008,Skrivebordslampe,Kontor,Esbjerg,XS,Grå,DK-3565-Bdd,320,4163.08,True
+P1009,Bluetooth Headset,Tøj,Aalborg,XL,Hvid,DK-4355-xFJ,91,323.54,True
+P1010,Robotstøvsuger,Elektronik,Aalborg,XS,Hvid,DK-6726-ZNl,123,1961.62,True
+P1011,Elkedel,Tøj,Aalborg,S,Blå,DK-0129-YMP,383,1125.58,True
+P1012,Skjorte,Elektronik,Aarhus,XL,Grøn,DK-0646-iLc,195,2716.29,True
+P1013,"Monitor 27""",Elektronik,Esbjerg,L,Blå,DK-0026-HHU,590,1175.11,True
+P1014,Mus,Elektronik,Aarhus,S,Sort,DK-1876-PgX,343,2064.71,True
+P1015,Tastatur,Elektronik,Kolding,One Size,Blå,DK-7179-Uen,237,3310.65,True
+P1016,Termokande,Elektronik,Esbjerg,S,Blå,DK-1006-xUP,162,1307.47,True
+P1017,Træningsmåtte,Tøj,Aalborg,One Size,Grå,DK-5624-cAr,458,4498.33,True
+P1018,Jakke,Elektronik,Odense,S,Grå,DK-7520-HMy,525,544.46,True
+P1019,Reol,Elektronik,Aarhus,S,Grøn,DK-9671-AIh,183,3980.19,True
+P1020,Printer,Elektronik,Aarhus,L,Rød,DK-7650-iYw,499,2691.66,True

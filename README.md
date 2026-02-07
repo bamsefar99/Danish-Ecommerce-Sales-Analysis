@@ -61,12 +61,20 @@ Datasættet består af:
 5. **Business Insights**:
    - Identificer trends og anbefalinger
 
----
+
+## 🔍 Business Insights
+- Elektronik er den mest profitable kategori.
+- Leveringstiden er længst i Esbjerg (gennemsnit 6 dage).
+- MobilePay er den mest populære betalingsmetode.
+
 
 ## 📈 Mulige Udvidelser
 - Forecasting af salg med Machine Learning
 - Dashboard i Power BI med drill-down funktioner
 - Kundesegmentering med clustering
+
+
+
 
 
 ### 🚀 Kom i gang
